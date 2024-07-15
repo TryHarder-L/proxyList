@@ -27,13 +27,13 @@ curl --proxytunnel -k --proxy 'http://xxx.xxx.xxx.xxx:xxxx' -o - https://ip.luck
 
   - **HTTP**
     ```bash
-    https://raw.githubusercontent.com/TryHarder-L/proxyList/master/http.txt
+    https://raw.githubusercontent.com/TryHarder-L/proxyList/main/http.txt
     ```
   - **SOCKS4**
     ```bash
-    https://raw.githubusercontent.com/TryHarder-L/proxyList/master/socks4.txt
+    https://raw.githubusercontent.com/TryHarder-L/proxyList/main/socks4.txt
     ```
   - **SOCKS5**
     ```bash
-    https://raw.githubusercontent.com/TryHarder-L/proxyList/master/socks5.txt
+    https://raw.githubusercontent.com/TryHarder-L/proxyList/main/socks5.txt
     ```
